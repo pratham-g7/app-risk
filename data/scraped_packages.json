@@ -1,0 +1,67 @@
+{
+    "Amazon India Shop, Pay, miniTV": [
+        [
+            "com.google.android.videos",
+            "com.amazon.avod.thirdpartyclient",
+            "com.bstar.intl",
+            "com.syf.amazonstorecard",
+            "com.amazon.mShop.android.shopping",
+            "com.amazon.clouddrive.photos",
+            "com.amazon.dee.app",
+            "com.changdu.mobovideo",
+            "com.amazon.kindle",
+            "com.amazon.mShop.android.business.shopping",
+            "com.wayfair.wayfair",
+            "com.amazon.mp3",
+            "com.walmart.android",
+            "us.zoom.videomeetings",
+            "com.einnovation.temu",
+            "com.shdj.test",
+            "com.google.android.youtube",
+            "com.dailymotion.dailymotion",
+            "com.amazon.storm.lightning.client.aosp",
+            "com.mxtech.videoplayer.ad",
+            "com.shopify.arrive",
+            "com.audible.application",
+            "com.google.android.apps.chromecast.app",
+            "com.netflix.mediaclient",
+            "com.disney.disneyplus"
+        ]
+    ],
+    "Flipkart Online Shopping App": [
+        [
+            "com.ebay.mobile",
+            "com.meesho.supply",
+            "com.amazon.mShop.android.shopping",
+            "in.amazon.mShop.android.shopping",
+            "com.snapdeal.main",
+            "com.myntra.android",
+            "com.lightinthebox.android",
+            "com.noon.buyerapp",
+            "com.einnovation.temu",
+            "de.aboutyou.mobile.app",
+            "com.daraz.android",
+            "com.shop.android",
+            "com.flipkart.seller",
+            "com.tul.tatacliq"
+        ]
+    ],
+    "Meesho: Online Shopping App": [
+        [
+            "com.markaz.app",
+            "com.ebay.mobile",
+            "com.amazon.mShop.android.shopping",
+            "in.amazon.mShop.android.shopping",
+            "com.snapdeal.main",
+            "com.myntra.android",
+            "com.lightinthebox.android",
+            "com.einnovation.temu",
+            "com.daraz.android",
+            "com.moglix.online",
+            "com.mercadolibre",
+            "com.shop.android",
+            "com.flipkart.android",
+            "com.mirraw.android"
+        ]
+    ]
+}
