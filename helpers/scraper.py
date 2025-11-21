@@ -6,8 +6,9 @@ class App:
         self.data = gps.app(package_name)
         self.metadata = {
             "title": self.data.get("title"),
-            "developer": self.data.get("developer"),
+            "dev": self.data.get("developer"),
             "icon": self.data.get("icon"),
+            "installs": self.data.get("realInstalls"),
         }
 
     def get_data(self, key):
